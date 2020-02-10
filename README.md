@@ -6,7 +6,7 @@ Its an clone on google's early year search engine UI and showing search results.
 
 
 <center>
-  <p>Thanks to @kiruthikraaj</p>
+  <a href="https://github.com/kiruthikraaj"></a>
 </center>
 
 
